@@ -178,7 +178,12 @@ Below is ```test_texts``` on a dataset containing a single article, with file na
 * ```models_util.py```: helper functions used in ```classify_trans.py```
 * ```classify_texts.ipynb```: example of usage
 * ```models.ipynb```: notebook for experimenting with models (not very relevant)
-* ```text_classification_spaCy```: notebook for experimenting with spaCy (not very relevant)
+* ```text_classification_spaCy.ipynb```: notebook for experimenting with spaCy (not very relevant)
+
+## Directories
+* ```english```: 83 original English-language articles making up our train & validation sets
+* ```translation```: 100 translated English articles making up our train & validation sets
+* ```test```: 30 original English and translated articles making up our test set
 
 \
 \

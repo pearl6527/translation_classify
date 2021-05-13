@@ -173,6 +173,12 @@ Below is ```test_texts``` on a dataset containing a single article, with file na
 </table>
 </div>
 
+## Code
+* ```classify_trans.py```: trains models on our dataset and contains functions to prepare new texts for classification
+* ```models_util.py```: helper functions used in ```classify_trans.py```
+* ```classify_texts.ipynb```: example of usage
+* ```models.ipynb```: notebook for experimenting with models (not very relevant)
+* ```text_classification_spaCy```: notebook for experimenting with spaCy (not very relevant)
 
 \
 \

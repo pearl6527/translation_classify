@@ -44,7 +44,7 @@ models, texts = classify_new(X_valid, y_valid)
 For example, ```models``` might look like the following:
 
 <div>
-<style scoped>
+<!-- <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -56,7 +56,7 @@ For example, ```models``` might look like the following:
     .dataframe thead th {
         text-align: right;
     }
-</style>
+</style> -->
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">

@@ -41,7 +41,7 @@ X_valid, y_valid = get_validation_set()
 models, texts = classify_new(X_valid, y_valid)
 ```
 
-For example, ```models``` might look like the following:
+For example, ```models``` might look like the following (these are statistics on our validation set):
 
 <div>
 
@@ -138,19 +138,7 @@ test_models, test_texts = classify_new(test_v, test_y)
 Below is ```test_texts``` on a dataset containing a single article, with file name ```1```, in the directory ```test```.
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">

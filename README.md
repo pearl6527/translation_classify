@@ -1,4 +1,4 @@
-# Final Project
+# An Exploration of Models That Differentiate Translationese from Original English Texts
 
 In this project, we seek to build machine learning models that can differentiate between translated texts and non-translated texts in English using previously hypothesized characteristics of translated texts, which were coined “translationese.” We succeeded in building seven models that are combinations of different classifiers and features that seem promising in their ability to distinguish between these two types of texts. Our best model is a simple neural network trained on TF-IDF features and reaches 86.7% accuracy, 82.4% precision, and 93.3% recall performance on our test set. Our success in building these models affirms the hypothesis that distinct features exist within translated texts, and also supports the fact that these features are apparent enough for simple machine learning models to distinguish between translated and non-translated texts.
 

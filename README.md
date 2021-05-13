@@ -200,7 +200,7 @@ Below is ```test_texts``` on a dataset containing a single article, with file na
 
 \
 \
-Pearl Hwang, Cynthia Lin
-Yale University
-LING 227: Language & Computation
+Pearl Hwang, Cynthia Lin  
+Yale University  
+LING 227: Language & Computation  
 May 2021
